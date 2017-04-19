@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Horarios.html",
+    "currentPage": "Hoteles.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
         },
         {
           "_name": "footer1",
@@ -154,7 +154,29 @@
           "_name": "features3",
           "_styles": {
             "P": {
-              "color": "#232323"
+              "color": "#000000",
+              "font-size": "18px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H4": {
+              "font-size": "25px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H5": {
+              "color": "#000000",
+              "font-size": "17px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "17px"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "features3-f",
@@ -194,8 +216,8 @@
           },
           "title1": "<br><br>Hotel El Molinon",
           "subtitle1": "Patricia 985.81",
-          "caption1": "Alojamiento con desayuno incluido <b>50€</b> Habitacion DOble<br>Las comidas y las cenas realizadas 10€/ persona<br>Para las tarifas infantiles consultar con el<br>establecimiento",
-          "button1": "<a data-app-btn=\"true\" href=\"ElMolinon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
+          "caption1": "Alojamiento con desayuno incluido <b>50€</b> Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento",
+          "button1": "<a data-app-btn=\"true\" href=\"ElMolinon.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/la-casilla-600x400.jpg",
@@ -210,7 +232,7 @@
           },
           "title2": "<br>Hotel La Casilla",
           "subtitle2": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Pepe 985.81</span><br>",
-          "caption2": "Alojamiento con desayuno incluido 50€ Habitacion DOble<br>Las comidas y las cenas realizadas 10€/ persona<br>Para las tarifas infantiles consultar con el<br>establecimiento",
+          "caption2": "Alojamiento con desayuno incluido 50€ Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento<br>",
           "button2": "<a data-app-btn=\"true\" href=\"LaCasilla.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media3": {
             "image": {
@@ -226,7 +248,7 @@
           },
           "title3": "<br><br><br>Hotel Peñagrande",
           "subtitle3": "Roberto 985.81",
-          "caption3": "Alojamiento con desayuno incluido 50€ Habitacion DOble<br>Las comidas y las cenas realizadas 10€/ persona<br>Para las tarifas infantiles consultar con el&nbsp;<br>establecimiento",
+          "caption3": "Alojamiento con desayuno incluido 50€ Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento<br>",
           "button3": "<a data-app-btn=\"true\" href=\"Peñagrande.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media4": {
             "image": {
@@ -242,7 +264,7 @@
           },
           "title4": "<br>Hotel Ana",
           "subtitle4": "Argemiro 985.81",
-          "caption4": "Alojamiento con desayuno incluido 50€ Habitacion DOble<br>Las comidas y las cenas realizadas 10€/ persona<br>Para las tarifas infantiles consultar con el<br>establecimiento",
+          "caption4": "Alojamiento con desayuno incluido 50€ Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento<br>",
           "button4": "<a data-app-btn=\"true\" href=\"Hotel Ana.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media5": {
             "image": {
@@ -308,13 +330,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -381,13 +403,19 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".btn": {
-              "font-size": "20px"
+              "font-size": "25px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-title": {
-              "font-size": "100px"
+              "font-size": "100px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-lead": {
-              "font-size": "36px"
+              "font-size": "46px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "header1-1",
@@ -535,7 +563,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
         },
         {
           "_name": "footer1",
@@ -765,7 +793,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
         },
         {
           "_name": "footer1",
@@ -1056,7 +1084,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
         },
         {
           "_name": "footer1",
@@ -1237,7 +1265,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Hoteles.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HOTELES<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElMolinon.html\">Hotel El Molinon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LaCasilla.html\">Hotel La Casilla</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Peñagrande.html\">Hotel Peñagrande</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hotel Ana.html\">Hotel Ana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HORARIOS DE CLASES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Jueves 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Viernes 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sabado 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Domingo 6</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
         },
         {
           "_name": "footer1",
