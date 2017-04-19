@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ElMolinon.html",
+    "currentPage": "Hoteles.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -36,100 +36,6 @@
         "order": 2
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-c",
-          "_params": {
-            "bgColor": "#cccccc",
-            "fontSize": "0.95",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a><p style=\"display: inline !important;\">INICIO</p></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ACTIVIDADES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACTO<br></a></li>"
-        },
         {
           "_name": "footer1",
           "_anchor": "footer1-e",
@@ -186,7 +92,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -217,7 +123,7 @@
           "title1": "<br><br>Hotel El Molinon",
           "subtitle1": "Patricia 985.812.952",
           "caption1": "Alojamiento con desayuno incluido <b>50€</b> Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento",
-          "button1": "<a data-app-btn=\"true\" href=\"ElMolinon.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ElMolinon.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/la-casilla-600x400.jpg",
@@ -233,7 +139,7 @@
           "title2": "<br>Hotel La Casilla",
           "subtitle2": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Pepe 985.812.680</span><br>",
           "caption2": "Alojamiento con desayuno incluido 50€ Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"LaCasilla.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"LaCasilla.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/el-peagrande-600x261.jpg",
@@ -249,7 +155,7 @@
           "title3": "<br><br><br>Hotel Peñagrande",
           "subtitle3": "Roberto 985.812.066",
           "caption3": "Alojamiento con desayuno incluido 50€ Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"Peñagrande.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Peñagrande.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/hotel-ana-600x399.jpg",
@@ -265,7 +171,7 @@
           "title4": "<br>Hotel Ana",
           "subtitle4": "Argemiro 985.81",
           "caption4": "Alojamiento con desayuno incluido 50€ Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"Hotel Ana.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Hotel Ana.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
