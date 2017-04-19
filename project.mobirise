@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Horarios.html",
+    "currentPage": "Hoteles.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -223,26 +223,26 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-family": "'Open Sans Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -346,7 +346,7 @@
           },
           "title": "V Curso de Cangas<br><br>",
           "text": "¿Has venido? &nbsp;Pues ya sabes lo que se disfruta<br>¿No has venido? Pues no sabes lo que te estas perdiendo<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Hoteles.html\" data-toolbar=\"-mbrBtnMove\">Hoteles</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Horarios de Clases</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Actividades</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Hoteles.html\" data-toolbar=\"-mbrBtnMove\">Hoteles</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Horarios.html\" data-toolbar=\"-mbrBtnMove\">Horarios de Clases</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Actividades</a> "
         },
         {
           "_name": "footer1",
