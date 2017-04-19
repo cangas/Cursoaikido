@@ -809,107 +809,108 @@ h6,
 
 
 
-
-
-
-
-#menu-12 .hide-buttons .nav-btn {
+#ext_menu-16 .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu-12 .navbar-caption {
+#ext_menu-16 .navbar-caption {
   color: #ffffff;
 }
-#menu-12 .navbar-toggler {
+#ext_menu-16 .navbar-toggler {
   color: #000000;
 }
-#menu-12 .link,
-#menu-12 .dropdown-item {
+#ext_menu-16 .close-icon::before,
+#ext_menu-16 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-16 .link,
+#ext_menu-16 .dropdown-item {
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
-#menu-12 .link {
-  font-size: 0.95rem;
+#ext_menu-16 .link {
+  font-size: 1.1rem;
 }
-#menu-12 .dropdown-item,
-#menu-12 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+#ext_menu-16 .dropdown-item,
+#ext_menu-16 .nav-dropdown-sm .link {
+  font-size: 1.191rem;
 }
-#menu-12 .link:hover,
-#menu-12 .dropdown-item:hover,
-#menu-12 .link:focus,
-#menu-12 .dropdown-item:focus {
+#ext_menu-16 .link:hover,
+#ext_menu-16 .dropdown-item:hover,
+#ext_menu-16 .link:focus,
+#ext_menu-16 .dropdown-item:focus {
   color: #c0a375;
 }
-#menu-12 .link[aria-expanded="true"],
-#menu-12 .dropdown-menu {
+#ext_menu-16 .link[aria-expanded="true"],
+#ext_menu-16 .dropdown-menu {
   background: #b3b3b3;
 }
-#menu-12 .nav-dropdown-sm .link:focus,
-#menu-12 .nav-dropdown-sm .link:hover,
-#menu-12 .nav-dropdown-sm .dropdown-item:focus,
-#menu-12 .nav-dropdown-sm .dropdown-item:hover {
+#ext_menu-16 .nav-dropdown-sm .link:focus,
+#ext_menu-16 .nav-dropdown-sm .link:hover,
+#ext_menu-16 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-16 .nav-dropdown-sm .dropdown-item:hover {
   background: #c4c4c4!important;
 }
-#menu-12 .navbar,
-#menu-12 .nav-dropdown-sm,
-#menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-12 .nav-dropdown-sm .dropdown-menu {
+#ext_menu-16 .navbar,
+#ext_menu-16 .nav-dropdown-sm,
+#ext_menu-16 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-16 .nav-dropdown-sm .dropdown-menu {
   background: #cccccc;
 }
-#menu-12 .bg-color.transparent .link {
+#ext_menu-16 .bg-color.transparent .link {
   color: #000000;
   transition: none;
 }
-#menu-12 .bg-color.transparent.opened .link {
+#ext_menu-16 .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#menu-12 .bg-color.transparent.opened .link:hover,
-#menu-12 .bg-color.transparent.opened .link:focus {
+#ext_menu-16 .bg-color.transparent.opened .link:hover,
+#ext_menu-16 .bg-color.transparent.opened .link:focus {
   color: #c0a375;
 }
-#menu-12 .link[aria-expanded="true"],
-#menu-12 .dropdown-item[aria-expanded="true"] {
+#ext_menu-16 .link[aria-expanded="true"],
+#ext_menu-16 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#menu-12.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+#pricing-table2-17 .mbr-plan-header,
+#pricing-table2-17 .mbr-plan-body {
+  background-color: #f4f4f4;
 }
-#menu-12 .mbr-navbar__hamburger {
-  color: #ffffff;
+#pricing-table2-17 ul,
+#pricing-table2-17 .mbr-plan-title,
+#pricing-table2-17 .mbr-price-value,
+#pricing-table2-17 .mbr-price-figure,
+#pricing-table2-17 .mbr-price-term {
+  color: #28262b;
 }
-#menu-12 .close-icon::before,
-#menu-12 .close-icon::after {
-  background-color: #000000;
+#pricing-table2-17 .mbr-plan {
+  border-color: #e8e8e8;
 }
-#pricing-table1-14 .mbr-section__container .mbr-section-title {
-  color: #fff;
+#pricing-table2-17 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-17 .mbr-section__container .mbr-section-title {
+  color: #2b0680;
+  font-size: 60px;
   font-family: 'Oswald', sans-serif;
 }
-#pricing-table1-14 .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
+#pricing-table2-17 .mbr-plan-title {
+  color: #2b0680;
+  font-size: 25px;
   font-family: 'Oswald', sans-serif;
 }
-#pricing-table1-14 .mbr-plan-title {
-  font-size: 22px;
+#pricing-table2-17 DIV {
   font-family: 'Oswald', sans-serif;
-}
-#pricing-table1-14 .mbr-plan-price-desc {
-  font-family: 'Oswald', sans-serif;
-  color: #ffffff;
-}
-#pricing-table1-14 UL {
-  font-family: 'Oswald', sans-serif;
-  color: #ffffff;
-  font-size: 19px;
-}
-#pricing-table1-14 .mbr-price-figure {
-  font-size: 14px;
-  font-family: 'Oswald', sans-serif;
-}
-#pricing-table1-14 .mbr-price-value {
-  font-family: 'Oswald', sans-serif;
+  color: #2b0680;
   font-size: 17px;
 }
-#pricing-table1-14 .mbr-plan-title P {
+#pricing-table2-17 SPAN {
+  color: #2b0680;
+  font-size: 17px;
+}
+#pricing-table2-17 P {
+  font-size: 14px;
+}
+#pricing-table2-17 UL {
+  color: #2b0680;
   font-size: 17px;
 }
