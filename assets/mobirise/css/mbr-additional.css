@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -850,6 +851,13 @@ h6,
   color: #000000;
 }
 
+
+
+
+
+
+
+
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -879,19 +887,19 @@ h6,
 }
 #menu-12 .link[aria-expanded="true"],
 #menu-12 .dropdown-menu {
-  background: #0e0e0e;
+  background: #a8a8a8;
 }
 #menu-12 .nav-dropdown-sm .link:focus,
 #menu-12 .nav-dropdown-sm .link:hover,
 #menu-12 .nav-dropdown-sm .dropdown-item:focus,
 #menu-12 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #b9b9b9!important;
 }
 #menu-12 .navbar,
 #menu-12 .nav-dropdown-sm,
 #menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-12 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #c1c1c1;
 }
 #menu-12 .bg-color.transparent .link {
   color: #000000;
@@ -920,7 +928,33 @@ h6,
 }
 #pricing-table1-14 .mbr-section__container .mbr-section-title {
   color: #fff;
+  font-family: 'Oswald', sans-serif;
 }
 #pricing-table1-14 .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+  font-family: 'Oswald', sans-serif;
+}
+#pricing-table1-14 .mbr-plan-title {
+  font-size: 22px;
+  font-family: 'Oswald', sans-serif;
+}
+#pricing-table1-14 .mbr-plan-price-desc {
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+}
+#pricing-table1-14 UL {
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  font-size: 19px;
+}
+#pricing-table1-14 .mbr-price-figure {
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+}
+#pricing-table1-14 .mbr-price-value {
+  font-family: 'Oswald', sans-serif;
+  font-size: 17px;
+}
+#pricing-table1-14 .mbr-plan-title P {
+  font-size: 17px;
 }
