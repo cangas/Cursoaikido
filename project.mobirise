@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Actividades.html",
+    "currentPage": "Actividad Sabado.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 61,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -933,7 +933,8 @@
     "Peñagrande.html": {
       "settings": {
         "title": "Aikido Cangas - Peñagrande",
-        "meta_descr": "Aikido Cangas - Hotel Peñagrande"
+        "meta_descr": "Aikido Cangas - Hotel Peñagrande",
+        "order": 5
       },
       "components": [
         {
@@ -1170,7 +1171,8 @@
     "Hotel Ana.html": {
       "settings": {
         "title": "Aikido Cangas - Hotel Ana",
-        "meta_descr": "Aikido Cangas - Hotel Ana"
+        "meta_descr": "Aikido Cangas - Hotel Ana",
+        "order": 6
       },
       "components": [
         {
@@ -1407,7 +1409,8 @@
     "Horarios.html": {
       "settings": {
         "title": "Horarios de clases",
-        "meta_descr": "Horarios previstos para la practica del Aikido"
+        "meta_descr": "Horarios previstos para la practica del Aikido",
+        "order": 7
       },
       "components": [
         {
@@ -1635,7 +1638,8 @@
     "Actividad Jueves.html": {
       "settings": {
         "title": "Actividades del Jueves",
-        "meta_descr": "Actvidades de ocio previstas para el Jueves 3"
+        "meta_descr": "Actvidades de ocio previstas para el Jueves 3",
+        "order": 9
       },
       "components": [
         {
@@ -1813,35 +1817,11 @@
         }
       ]
     },
-    "Actividad Viernes.html": {
-      "settings": {
-        "title": "Actividad del Viernes",
-        "meta_descr": "Actvidades de ocio previstas para el Jueves 4"
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-1a",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        }
-      ]
-    },
     "Actividad Sabado.html": {
       "settings": {
         "title": "Actividad del Sabado",
-        "meta_descr": "Actvidades de ocio previstas para el Sabado 5"
+        "meta_descr": "Actvidades de ocio previstas para el Sabado 5",
+        "order": 13
       },
       "components": [
         {
@@ -1860,13 +1840,66 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1o",
+          "_params": {
+            "imageSize": "61",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/prada-2000x1502.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/prada-1400x1051.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Parrillada",
+          "text": "Como &nbsp;todos el año tendremos la famosa parrillada con los maestros.<br>Esperamos poder disfrutar de una tarde al aire libre<br> en un entorno privilegiado y&nbsp;<br>lo mas fundamental&nbsp;<br>disfrutando de una buena compañia.<br>Despues de la comida, realizaremos juegos tradicionales&nbsp;<br>para que todos participemos.<br>El precio de la parrillada sera de 15€/persona y los niños 7€",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
     "Actividades.html": {
       "settings": {
         "title": "Actividades de Ocio",
-        "meta_descr": "Todas las actividades previstas para durante el curso"
+        "meta_descr": "Todas las actividades previstas para durante el curso",
+        "order": 8
       },
       "components": [
         {
@@ -2096,6 +2129,84 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "Actividad V. Ruta Gastronomica.html": {
+      "settings": {
+        "title": "Actividad del Viernes-Ruta Gastronomica",
+        "meta_descr": "Actvidades de ocio previstas para el Jueves 4\nRuta Gastronomica",
+        "order": 10
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "Actividad V. Escape Room.html": {
+      "settings": {
+        "title": "Actividad V. Escape Room",
+        "meta_descr": "Actividad del Viernes.\nEscape Room",
+        "order": 11
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "Actividad V. Karts.html": {
+      "settings": {
+        "title": "Actividad V. Karts",
+        "meta_descr": "Actividad del Viernes\n Karts",
+        "order": 12
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     }
