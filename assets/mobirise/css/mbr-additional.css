@@ -508,15 +508,15 @@ h6,
   color: #ffffff;
 }
 #menu-1f .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-1f .close-icon::before,
 #menu-1f .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu-1f .link,
 #menu-1f .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
 #menu-1f .link {
@@ -549,7 +549,7 @@ h6,
   background: #cccccc;
 }
 #menu-1f .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-1f .bg-color.transparent.opened .link {
@@ -1113,15 +1113,15 @@ h6,
   color: #ffffff;
 }
 #menu-1f .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-1f .close-icon::before,
 #menu-1f .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu-1f .link,
 #menu-1f .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
 #menu-1f .link {
@@ -1154,7 +1154,7 @@ h6,
   background: #cccccc;
 }
 #menu-1f .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-1f .bg-color.transparent.opened .link {

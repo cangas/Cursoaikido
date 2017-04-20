@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Actividad Sabado.html",
+    "currentPage": "LaCasilla.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -146,7 +146,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -315,13 +315,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -344,7 +344,7 @@
               "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -370,7 +370,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -438,7 +438,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "V Curso de Cangas<br><br>",
+          "title": "V Curso de Aikido Cangas<br><br>",
           "text": "¿Has venido? &nbsp;Pues ya sabes lo que se disfruta<br>¿No has venido? Pues no sabes lo que te estas perdiendo<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Hoteles.html\" data-toolbar=\"-mbrBtnMove\">Hoteles</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Horarios.html\" data-toolbar=\"-mbrBtnMove\">Horarios de Clases</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Actividad Jueves.html\" data-toolbar=\"-mbrBtnMove\">Actividades</a>  "
         },
@@ -578,7 +578,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -936,7 +936,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
@@ -1038,7 +1038,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -1295,7 +1295,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -1535,7 +1535,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -1629,7 +1629,7 @@
           "price2": "",
           "period2": "",
           "description2": "",
-          "list2": "<span style=\"font-size: 14px; line-height: 50px;\"><b>7h - 8h</b></span><br><div><span style=\"font-size: 14px; line-height: 50px;\">Clase de armas en el Prao del Molino</span></div><div><span style=\"font-size: 14px; line-height: 50px;\"><b>9h - 12h</b></span></div><div><span style=\"font-size: 14px; line-height: 50px;\">Clase Practica</span></div>",
+          "list2": "<span style=\"font-size: 14px; line-height: 50px;\"><b>7h - 8h</b></span><br><div><span style=\"font-size: 14px; line-height: 50px;\">Clase de armas en el Prao del Molin</span></div><div><span style=\"font-size: 14px; line-height: 50px;\"><b>9h - 12h</b></span></div><div><span style=\"font-size: 14px; line-height: 50px;\">Clase Practica</span></div>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
           "title3": "SABADO 5",
@@ -1766,7 +1766,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -1950,7 +1950,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Curso Aikido Cangas</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MENU INICIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -2040,13 +2040,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -2069,7 +2069,7 @@
               "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2095,7 +2095,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
