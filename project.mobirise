@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Actividad Jueves.html",
+    "currentPage": "Actividad Sabado.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
@@ -1988,7 +1988,7 @@
             "imageSize": "61",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prada-2000x1502.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/prada-desenfocada-2000x1501.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
