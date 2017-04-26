@@ -1,15 +1,15 @@
 {
   "settings": {
-    "currentPage": "Horarios.html",
+    "currentPage": "index.html",
     "name": "Cuso Aikido Cangas",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#cccccc",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#cccccc",
+        "infoColor": "#c1c1c1",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Oswald",
@@ -26,7 +26,10 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "google-analytics": "UA-98114669-1"
   },
   "pages": {
     "Hoteles.html": {
@@ -85,13 +88,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -264,7 +267,7 @@
             }
           },
           "title4": "<br>Hotel Ana",
-          "subtitle4": "Argemiro 985.81",
+          "subtitle4": "Argemiro 618.923.937",
           "caption4": "Alojamiento con desayuno incluido 50€ Habitacion Doble<br><br>Las comidas y las cenas realizadas 10€/ persona<br><br>Tarifas infantiles y habitaciones individuales consultar con el<br>establecimiento<br>",
           "button4": "<a data-app-btn=\"true\" href=\"Hotel Ana.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Mas informacion</a>",
           "media5": {
@@ -412,7 +415,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
